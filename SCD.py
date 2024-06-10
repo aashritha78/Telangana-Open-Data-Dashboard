@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as p
+import pandas as pd
 import plotly.express as px
 
 # Define file paths
